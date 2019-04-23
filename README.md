@@ -1,2 +1,2 @@
 # my-first
-just to teest github for my own use.
+just to test github for my own use.
